@@ -55,5 +55,3 @@ This project focuses on predicting lifestyle-related health conditions based on 
 - Best accuracy achieved using ensemble method: **VotingClassifier with SVM, Random Forest, and Logistic Regression**
 - Model demonstrated balanced performance across evaluation metrics
 
-## 📁 Directory Structure
-
